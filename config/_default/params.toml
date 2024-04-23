@@ -19,7 +19,7 @@ subtitle = "Life is too important to be taken seriously."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar-1.jpg"
+src = "img/bird.jpg"
 
 [article]
 math = false
