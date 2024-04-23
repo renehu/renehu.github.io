@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://renehu.github.io/"
+baseurl = "https://renehu.net"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
