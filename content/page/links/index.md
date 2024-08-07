@@ -5,11 +5,16 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    links:
+  - title: Recruit Chat
+    description: A simple job search platform, which can post positions and chat.
+    website: https://renehu.net/recruit-client
+    image: https://renehu.net/recruit-client/static/media/logo.4ff50b3a.png
 menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
+  main:
+    weight: 4
+    params:
+      icon: link
 
 comments: false
 ---
