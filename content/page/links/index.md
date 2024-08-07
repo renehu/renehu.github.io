@@ -1,12 +1,12 @@
 ---
 title: Links
 links:
-  - title: GitHub
+  - title: Rene's GitHub
     description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    website: https://github.com/renehu
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
     links:
-  - title: Recruit Chat
+  - title: Recruit Chat (Under Development)
     description: A simple job search platform, which can post positions and chat.
     website: https://renehu.net/recruit-client
     image: https://renehu.net/recruit-client/static/media/logo.4ff50b3a.png
