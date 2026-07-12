@@ -1,3 +1,20 @@
+# Rene Hu Portfolio
+
+This repository contains the source code for my personal portfolio website.
+
+The website is built with **Hugo** using the **Stack Theme**, customised to showcase my software development projects, technical skills, and professional experience.
+
+🌐 **Live Website**
+
+https://renehu.net
+
+
+## Preview
+<img width="1888" height="988" alt="image" src="https://github.com/user-attachments/assets/98f48357-f9d7-42cb-a796-b9d16e55d09c" />
+
+
+
+
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
 # Hugo Theme Stack Starter Template
