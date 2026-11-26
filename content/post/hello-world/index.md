@@ -2,7 +2,7 @@
 title: Hello World — A Little About Me
 description: Welcome to my website
 slug: hello-world
-date: 2027-11-26 00:00:00+0000
+date: 2026-11-26 00:00:00+0000
 image: cover.jpg
 categories:
   - About Me
