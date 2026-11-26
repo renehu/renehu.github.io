@@ -1,3 +1,60 @@
 /*
     You can add your own custom styles here.
 */
+
+/* Profile info under the sidebar name */
+.site-profile {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+
+    p {
+        margin: 0;
+        font-size: 1.4rem;
+        color: var(--body-text-color);
+    }
+
+    .profile-role {
+        font-size: 1.5rem;
+    }
+
+    .profile-location {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+
+        svg {
+            width: 1.6rem;
+            height: 1.6rem;
+            stroke-width: 1.75;
+            flex-shrink: 0;
+        }
+    }
+}
+
+.profile-divider {
+    width: 100%;
+    margin: 4px 0;
+    border: 0;
+    border-top: 1px solid var(--card-separator-color);
+}
+
+.profile-divider + .site-description {
+    font-style: italic;
+}
+
+/* Center the sidebar header (avatar, name, profile) and social icons */
+.left-sidebar {
+    header {
+        align-items: center;
+        text-align: center;
+    }
+
+    .site-profile {
+        align-items: center;
+    }
+
+    .menu-social {
+        justify-content: center;
+    }
+}
