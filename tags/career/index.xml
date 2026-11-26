@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Career on Rene Hu</title><link>https://renehu.net/tags/career/</link><description>Recent content in Career on Rene Hu</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://renehu.net/tags/career/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World — A Little About Me</title><link>https://renehu.net/p/hello-world/</link><pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate><guid>https://renehu.net/p/hello-world/</guid><description>&lt;img src="https://renehu.net/p/hello-world/darwin.jpg" alt="Featured image of post Hello World — A Little About Me" />&lt;p>Hi, welcome to my little corner of the internet!&lt;/p>
+&lt;p>I&amp;rsquo;m &lt;strong>Rene&lt;/strong>, a software developer currently based in &lt;strong>Darwin, Northern Territory, Australia&lt;/strong>.&lt;/p>
+&lt;h2 id="my-professional-journey">My Professional Journey
+&lt;/h2>&lt;p>I hold a Master of Software Engineering from Fudan University and have over eight years of commercial software development experience, primarily in the financial technology industry.&lt;/p>
+&lt;p>Before moving to Australia, I worked as a Senior Engineer at &lt;strong>Green Dot Corporation&lt;/strong>, a US-based financial technology company, developing and maintaining banking applications used by millions of customers across the United States.&lt;/p>
+&lt;h3 id="technical-skills">Technical Skills
+&lt;/h3>&lt;p>My technical experience includes:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Frontend:&lt;/strong> React, Angular, JavaScript, HTML5 and CSS3&lt;/li>
+&lt;li>&lt;strong>Backend:&lt;/strong> C#, .NET, ASP.NET MVC and Web API&lt;/li>
+&lt;li>&lt;strong>System Integration:&lt;/strong> REST APIs and third-party services&lt;/li>
+&lt;li>&lt;strong>Database:&lt;/strong> SQL Server&lt;/li>
+&lt;li>&lt;strong>Development Tools:&lt;/strong> GitHub, TeamCity, JIRA and Confluence&lt;/li>
+&lt;li>&lt;strong>Other Areas:&lt;/strong> WordPress, PHP, application support, testing and troubleshooting&lt;/li>
+&lt;/ul>
+&lt;p>I enjoy solving practical problems, exploring new technologies and understanding how different systems work together.&lt;/p>
+&lt;h2 id="a-new-chapter-in-darwin">A New Chapter in Darwin
+&lt;/h2>&lt;p>In December 2025, I moved from Shanghai to Darwin, starting a new chapter in both my personal and professional life.&lt;/p>
+&lt;p>Since arriving in Darwin, I have had opportunities to work on local software projects, including healthcare application testing, data migration and business system integration.&lt;/p>
+&lt;p>Starting again in a new country has brought both challenges and opportunities. I have enjoyed meeting people from different backgrounds, learning about Australian culture and becoming part of the local community.&lt;/p>
+&lt;p>I hope to continue building my career in the Northern Territory and use my technical skills to make a meaningful contribution to the place I now call home.&lt;/p>
+&lt;h2 id="about-this-website">About This Website
+&lt;/h2>&lt;p>This website is a space where I share my professional experiences, technical knowledge, personal interests and thoughts along the way.&lt;/p>
+&lt;blockquote>&lt;p id="browserAgent">Loading browser agent information...&lt;/p>&lt;/blockquote>
+&lt;script>
+document.addEventListener("DOMContentLoaded", function() {
+// Function to fetch User-Agent from the Cloudflare Worker
+function fetchUserAgent() {
+fetch('https://browser.rene-hu.workers.dev/')
+.then(function(response) {
+return response.text();
+})
+.then(function(data) {
+document.getElementById('browserAgent').textContent = data;
+})
+.catch(function(error) {
+console.error('Error fetching the User-Agent:', error);
+document.getElementById('browserAgent').textContent = 'Failed to load browser agent information.';
+});
+}
+// Call the fetchUserAgent function when the document is ready
+fetchUserAgent();
+});
+&lt;/script></description></item></channel></rss>
