@@ -51,7 +51,7 @@ I hope to continue building my career in the Northern Territory and use my techn
 
 This website is a space where I share my professional experiences, technical knowledge, personal interests and thoughts along the way.
 
-<div id="browserAgent">Loading browser agent information...</div>
+<blockquote><p id="browserAgent">Loading browser agent information...</p></blockquote>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
