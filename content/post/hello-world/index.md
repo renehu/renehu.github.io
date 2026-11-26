@@ -51,8 +51,6 @@ I hope to continue building my career in the Northern Territory and use my techn
 
 This website is a space where I share my professional experiences, technical knowledge, personal interests and thoughts along the way.
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
-
 <div id="browserAgent">Loading browser agent information...</div>
 
 <script>
