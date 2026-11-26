@@ -19,7 +19,7 @@ subtitle = "Life is too important to be taken seriously."
 [sidebar.profile]
 role = "Software Developer"
 location = "Darwin, NT, Australia"
-skills = [".NET", "React", "Angular", "API Integration"]
+skills = [".NET", "React / Angular", "System & API Integration", "Web Development", "Open to Opportunities"]
 
 [sidebar.avatar]
 enabled = true
